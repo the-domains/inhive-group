@@ -1,7 +1,7 @@
 name: inhive Group
 favicon: null
-layout_spectrum: 0.0544532488565892
-typography_spectrum: 0.9805816425941885
+layout_spectrum: 1
+typography_spectrum: 0.69308
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.07241189805790782
+  brandStrength: 0.5
   lightness: 0.2925971325021237
-  saturation: 0.46756460703909397
+  saturation: 0.5
   rhythmicContrast: 0.8020758568309247
 purpose: []
