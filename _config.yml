@@ -1,0 +1,28 @@
+name: inhive Group
+favicon: null
+layout_spectrum: 0.0544532488565892
+typography_spectrum: 0.9805816425941885
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.07241189805790782
+  lightness: 0.2925971325021237
+  saturation: 0.46756460703909397
+  rhythmicContrast: 0.8020758568309247
+purpose: []
